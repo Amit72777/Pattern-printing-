@@ -1,4 +1,4 @@
 # alphabet-pattern-
-this is my first learning repository
+this is my first learning repository.
 <br>
 Author-Amit Kushwaha 
